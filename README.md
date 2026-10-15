@@ -1,6 +1,6 @@
 # Vacademy developer docs
 
-Published by Mintlify at https://vacademy-platform.mintlify.site/.
+Published by Mintlify at https://docs.vacademy.io/.
 
 **Source of truth:** [`vacademy_platform/vacademy-docs`](https://github.com/Vacademy-io/vacademy_platform/tree/main/vacademy-docs),
 next to the API code. Edit the docs there, then copy them here:
